@@ -27,20 +27,6 @@
                 <identifier>force_highlightsPanel</identifier>
             </componentInstance>
         </itemInstances>
-        <itemInstances>
-            <componentInstance>
-                <componentInstanceProperties>
-                    <name>timelineConfigs</name>
-                    <valueList>
-                        <valueListItems>
-                            <value>Customer_Interaction_Timeline</value>
-                        </valueListItems>
-                    </valueList>
-                </componentInstanceProperties>
-                <componentName>industries_common:timeline</componentName>
-                <identifier>industries_common_timeline</identifier>
-            </componentInstance>
-        </itemInstances>
         <name>leftsidebar</name>
         <type>Region</type>
     </flexiPageRegions>
