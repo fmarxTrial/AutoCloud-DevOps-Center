@@ -314,20 +314,6 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
-                    <name>exposedAttributes</name>
-                    <value>{&quot;Limit&quot;:&quot;3&quot;}</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>flexcardName</name>
-                    <value>ServiceExcellenceGenericAlertCard</value>
-                </componentInstanceProperties>
-                <componentName>runtime_omnistudio:flexcard</componentName>
-                <identifier>runtime_omnistudio_flexcard</identifier>
-            </componentInstance>
-        </itemInstances>
-        <itemInstances>
-            <componentInstance>
-                <componentInstanceProperties>
                     <name>tabs</name>
                     <value>maintabs</value>
                 </componentInstanceProperties>
